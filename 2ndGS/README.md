@@ -1,2 +1,2 @@
 # 2ndGS
-The second genaration sequencing for DNA or RNA.
+The second generation high-throughput sequencing for DNA or RNA.
