@@ -9,4 +9,14 @@
 (5)  Merge the two ends of paired-end FASTQ into one file by using `seqtk mergepe`.   https://github.com/lh3/seqtk                        
                                                                                           
 #### 2. Check quality for FASTQ files       
-
+(1)  FastQC: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/                          
+(2)  FastQ Screen: http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/                            
+(3)  fastqp: https://pypi.python.org/pypi/fastqp                                                
+(4)  Rqc: https://bioconductor.org/packages/release/bioc/html/Rqc.html                                         
+(5)  seqTools: http://www.bioconductor.org/packages/release/bioc/html/seqTools.html                       
+(6)  ShortRead: http://bioconductor.org/packages/release/bioc/html/ShortRead.html                            
+(7)  MultiQC: https://github.com/ewels/MultiQC                                         
+(8)  fastools: https://pypi.python.org/pypi/fastools                          
+(9)  NGSUtils: https://github.com/ngsutils/ngsutils                               
+(10) ngs-bits: https://github.com/imgag/ngs-bits                       
+(11) SolexaQA++: http://solexaqa.sourceforge.net/                      
