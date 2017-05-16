@@ -14,9 +14,11 @@
 (3)  fastqp: https://pypi.python.org/pypi/fastqp                                                
 (4)  Rqc: https://bioconductor.org/packages/release/bioc/html/Rqc.html                                         
 (5)  seqTools: http://www.bioconductor.org/packages/release/bioc/html/seqTools.html                       
-(6)  ShortRead: http://bioconductor.org/packages/release/bioc/html/ShortRead.html                            
-(7)  MultiQC: https://github.com/ewels/MultiQC                                         
+(6)  ShortRead: http://bioconductor.org/packages/release/bioc/html/ShortRead.html  
+(7)  systemPipeR: https://bioconductor.org/packages/release/bioc/html/systemPipeR.html                                        
 (8)  fastools: https://pypi.python.org/pypi/fastools                          
 (9)  NGSUtils: https://github.com/ngsutils/ngsutils                               
 (10) ngs-bits: https://github.com/imgag/ngs-bits                       
-(11) SolexaQA++: http://solexaqa.sourceforge.net/                      
+(11) SolexaQA++: http://solexaqa.sourceforge.net/                                         
+(12) QC3: https://github.com/slzhao/QC3     
+(13) MultiQC: https://github.com/ewels/MultiQC                 
