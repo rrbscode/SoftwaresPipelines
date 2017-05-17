@@ -21,4 +21,4 @@
 (10) ngs-bits: https://github.com/imgag/ngs-bits                       
 (11) SolexaQA++: http://solexaqa.sourceforge.net/                                         
 (12) QC3: https://github.com/slzhao/QC3     
-(13) MultiQC: https://github.com/ewels/MultiQC                 
+(13) MultiQC: https://github.com/ewels/MultiQC    https://pypi.python.org/pypi/multiqc/                      
