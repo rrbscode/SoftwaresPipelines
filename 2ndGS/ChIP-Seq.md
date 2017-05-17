@@ -50,8 +50,8 @@
 (3)  Stampy:   www.well.ox.ac.uk/bioinformatics/Software/Stampy-latest.tgz      
 (4)  Novoalign: http://www.novocraft.com/support/download/     
 (5)  Subread: http://subread.sourceforge.net/        
-(6)  Yara: https://github.com/seqan/seqan/tree/master/apps/yara            
-(7)  RazerS 3: https://github.com/seqan/seqan/tree/master/apps/razers3          
+(6)  Yara: https://github.com/seqan/seqan/tree/master/apps/yara , http://packages.seqan.de/                    
+(7)  RazerS 3: https://github.com/seqan/seqan/tree/master/apps/razers3  ,  http://packages.seqan.de/                  
 (8)  mrsFAST-Ultra:  http://sfu-compbio.github.io/mrsfast/          
 (9)  BBMap: https://sourceforge.net/projects/bbmap/                
 (10) GMAP-GSNAP: http://research-pub.gene.com/gmap/                     
