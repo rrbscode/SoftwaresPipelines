@@ -46,17 +46,17 @@
                    
 #### 5. Reads mapping (Mappers or Aligners)
 (1)  BWA-mem and BWA-aln:    https://github.com/lh3/bwa           
-(2)  Bowtie2 :      https://github.com/BenLangmead/bowtie2      
-(3)  Stampy :   www.well.ox.ac.uk/bioinformatics/Software/Stampy-latest.tgz      
-(4)  Novoalign : http://www.novocraft.com/support/download/     
-(5)  Subread : http://subread.sourceforge.net/        
-(6)  Yara : https://www.seqan.de/apps/yara/          
-(7)  RazerS 3 : https://www.seqan.de/apps/razers-3/          
-(8)  mrsFAST-Ultra :  http://sfu-compbio.github.io/mrsfast/          
-(9)  BBMap : https://sourceforge.net/projects/bbmap/                
-(10) GMAP-GSNAP : http://research-pub.gene.com/gmap/                     
-(11) deBGA :  https://github.com/hitbc/deBGA       
-(12) Edlib : https://github.com/Martinsos/edlib                           
+(2)  Bowtie2:      https://github.com/BenLangmead/bowtie2      
+(3)  Stampy:   www.well.ox.ac.uk/bioinformatics/Software/Stampy-latest.tgz      
+(4)  Novoalign: http://www.novocraft.com/support/download/     
+(5)  Subread: http://subread.sourceforge.net/        
+(6)  Yara: https://github.com/seqan/seqan/tree/master/apps/yara            
+(7)  RazerS 3: https://github.com/seqan/seqan/tree/master/apps/razers3          
+(8)  mrsFAST-Ultra:  http://sfu-compbio.github.io/mrsfast/          
+(9)  BBMap: https://sourceforge.net/projects/bbmap/                
+(10) GMAP-GSNAP: http://research-pub.gene.com/gmap/                     
+(11) deBGA:  https://github.com/hitbc/deBGA       
+(12) Edlib: https://github.com/Martinsos/edlib                           
 
                              
 
