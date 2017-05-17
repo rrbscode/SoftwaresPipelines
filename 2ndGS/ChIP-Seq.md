@@ -1,4 +1,4 @@
-## Organize various softwares into ChIP-seq data analysis pipeline.
+# Organize various softwares into ChIP-seq data analysis pipeline.
                        
                                     
 #### 1. Convert SRA to FASTQ, extract compressed files, and merge technical replicates.                    
@@ -57,7 +57,7 @@
 (10) GMAP-GSNAP: http://research-pub.gene.com/gmap/                     
 (11) deBGA:  https://github.com/hitbc/deBGA       
 (12) Edlib: https://github.com/Martinsos/edlib                           
-
+(13) NextGenMap: https://github.com/Cibiv/NextGenMap             
                              
 
 
