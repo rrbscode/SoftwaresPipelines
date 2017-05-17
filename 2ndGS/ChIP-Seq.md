@@ -25,5 +25,6 @@
                                 
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
+(2)  Clumpify in BBMap: https://www.biostars.org/p/225338/ , https://sourceforge.net/projects/bbmap/   
 
 
