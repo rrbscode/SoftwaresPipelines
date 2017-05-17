@@ -28,5 +28,6 @@
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
 (2)  Clumpify in BBMap: https://www.biostars.org/p/225338/ , https://sourceforge.net/projects/bbmap/   
 (3)  PRINSEQ: http://prinseq.sourceforge.net/          
-
-
+(4)  Lighter: https://github.com/mourisl/Lighter  
+(5)  RECKONER: http://sun.aei.polsl.pl/REFRESH/reckoner   
+(6)  BLESS2: https://sourceforge.net/projects/bless-ec/   
