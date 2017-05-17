@@ -30,4 +30,21 @@
 (3)  PRINSEQ: http://prinseq.sourceforge.net/          
 (4)  Lighter: https://github.com/mourisl/Lighter  
 (5)  RECKONER: http://sun.aei.polsl.pl/REFRESH/reckoner   
-(6)  BLESS2: https://sourceforge.net/projects/bless-ec/   
+(6)  BLESS2: https://sourceforge.net/projects/bless-ec/  
+
+#### 4. Trim and Filter
+(1)  Trimmomatic: http://www.usadellab.org/cms/?page=trimmomatic     
+(2)  cutadapt： https://pypi.python.org/pypi/cutadapt     
+(3)  Galore: http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/         
+(4)  AdapterRemoval:  https://github.com/MikkelSchubert/adapterremoval              
+(5)  Flexbar: https://github.com/seqan/flexbar 
+(6)  SeqPrep: https://github.com/jstjohn/SeqPrep               
+(7)  SeqPurge: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1069-7       
+(8)  NxTrim: https://github.com/sequencing/NxTrim   
+(9)  Atropos: https://github.com/jdidion/atropos    
+
+
+
+
+
+
