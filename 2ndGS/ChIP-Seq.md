@@ -22,3 +22,8 @@
 (11) SolexaQA++: http://solexaqa.sourceforge.net/                                         
 (12) QC3: https://github.com/slzhao/QC3     
 (13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/                      
+                                
+#### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
+
+
+
