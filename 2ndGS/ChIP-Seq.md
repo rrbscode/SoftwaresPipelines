@@ -21,10 +21,12 @@
 (10) ngs-bits: https://github.com/imgag/ngs-bits                       
 (11) SolexaQA++: http://solexaqa.sourceforge.net/                                         
 (12) QC3: https://github.com/slzhao/QC3     
-(13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/                      
+(13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/         
+(14) PRINSEQ: http://prinseq.sourceforge.net/   
                                 
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
 (2)  Clumpify in BBMap: https://www.biostars.org/p/225338/ , https://sourceforge.net/projects/bbmap/   
+(3)  PRINSEQ: http://prinseq.sourceforge.net/          
 
 
