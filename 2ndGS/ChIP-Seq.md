@@ -37,8 +37,8 @@
 (2)  cutadapt： https://pypi.python.org/pypi/cutadapt     
 (3)  Galore: http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/         
 (4)  AdapterRemoval:  https://github.com/MikkelSchubert/adapterremoval              
-(5)  Flexbar: https://github.com/seqan/flexbar 
-(6)  SeqPrep: https://github.com/jstjohn/SeqPrep               
+(5)  Flexbar: https://github.com/seqan/flexbar                   
+(6)  SeqPrep: https://github.com/jstjohn/SeqPrep                     
 (7)  SeqPurge: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1069-7       
 (8)  NxTrim: https://github.com/sequencing/NxTrim   
 (9)  Atropos: https://github.com/jdidion/atropos    
