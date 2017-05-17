@@ -24,6 +24,6 @@
 (13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/                      
                                 
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
-
+(1)  ParDRe: https://sourceforge.net/projects/pardre/   
 
 
