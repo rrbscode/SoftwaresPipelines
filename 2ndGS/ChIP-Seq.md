@@ -1,4 +1,4 @@
-## Organize various softwares into ChIP-seq data analysis pipeline.
+     ## Organize various softwares into ChIP-seq data analysis pipeline.
                        
                                     
 #### 1. Convert SRA to FASTQ, extract compressed files, and merge technical replicates.                    
@@ -77,7 +77,8 @@
 (15) BamQC: https://github.com/s-andrews/BamQC               
 (16) BamTools: https://github.com/pezmaster31/bamtools                      
 (17) VCFtools: https://vcftools.github.io/perl_module.html             
-(18) BCFtools: https://samtools.github.io/bcftools/                              
+(18) BCFtools: https://samtools.github.io/bcftools/                 
+(19) phantompeakqualtools: https://github.com/kundajelab/phantompeakqualtools               
                               
                   
                   
