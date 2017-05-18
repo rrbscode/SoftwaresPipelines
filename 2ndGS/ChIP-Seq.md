@@ -57,7 +57,28 @@
 (10) GMAP-GSNAP: http://research-pub.gene.com/gmap/                     
 (11) deBGA:  https://github.com/hitbc/deBGA       
 (12) Edlib: https://github.com/Martinsos/edlib                           
-(13) NextGenMap: https://github.com/Cibiv/NextGenMap             
-                             
-
+(13) NextGenMap: https://github.com/Cibiv/NextGenMap     
+                      
+#### 6. Check quality for BAM files
+(1)  Sambamba:  https://github.com/lomereiter/sambamba   
+(2)  Biobambam2: https://github.com/gt1/biobambam2  
+(3)  NGS-QC Generator: http://www.ngs-qc.org/                                                 
+(4)  htSeqTools: http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                  
+(5)  SAMtools:  http://www.htslib.org/                                      
+(6)  Subread utilities: http://subread.sourceforge.net/                            
+(7)  FASTQC: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/                             
+(8)  SAMstat: https://sourceforge.net/projects/samstat/                               
+(9)  BAMStats: https://github.com/guigolab/bamstats                                         
+(10) qualimap: http://qualimap.bioinfo.cipf.es/                                              
+(11) ezBAMQC: https://pypi.python.org/pypi/ezBAMQC                                           
+(12) PRESEQ: https://github.com/smithlabcode/preseq                                           
+(13) Picard:  https://github.com/broadinstitute/picard                                       
+(14) fastqp: https://github.com/mdshw5/fastqp                         
+(15) BamQC: https://github.com/s-andrews/BamQC               
+(16) BamTools: https://github.com/pezmaster31/bamtools                      
+(17) VCFtools: https://vcftools.github.io/perl_module.html             
+(18) BCFtools: https://samtools.github.io/bcftools/                              
+                              
+                  
+                  
 
