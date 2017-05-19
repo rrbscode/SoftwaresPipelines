@@ -13,7 +13,7 @@
 (2)  FastQ Screen: http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/                            
 (3)  fastqp: https://pypi.python.org/pypi/fastqp                                                
 (4)  Rqc: https://bioconductor.org/packages/release/bioc/html/Rqc.html                                         
-(5)  seqTools: http://www.bioconductor.org/packages/release/bioc/html/seqTools.html                       
+R(5)  seqTools: http://www.bioconductor.org/packages/release/bioc/html/seqTools.html                       
 (6)  ShortRead: http://bioconductor.org/packages/release/bioc/html/ShortRead.html  
 (7)  systemPipeR: https://bioconductor.org/packages/release/bioc/html/systemPipeR.html                                        
 (8)  fastools: https://pypi.python.org/pypi/fastools                          
@@ -23,7 +23,7 @@
 (12) QC3: https://github.com/slzhao/QC3     
 (13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/         
 (14) PRINSEQ: http://prinseq.sourceforge.net/   
-                                
+I                                
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
 (2)  Clumpify in BBMap: https://www.biostars.org/p/225338/ , https://sourceforge.net/projects/bbmap/   
@@ -79,7 +79,8 @@
 (17) VCFtools: https://vcftools.github.io/perl_module.html             
 (18) BCFtools: https://samtools.github.io/bcftools/                 
 (19) phantompeakqualtools: https://github.com/kundajelab/phantompeakqualtools               
-                              
+(20) IDR: https://github.com/nboley/idr               
+(21) SPP: https://github.com/hms-dbmi/spp                
                   
                   
 
