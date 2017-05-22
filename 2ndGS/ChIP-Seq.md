@@ -23,6 +23,8 @@
 (12) QC3: https://github.com/slzhao/QC3     
 (13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/         
 (14) PRINSEQ: http://prinseq.sourceforge.net/   
+(15) kPAL: https://github.com/LUMC/kPAL                
+(16) KAT: https://github.com/TGAC/KAT             
                                                               
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
