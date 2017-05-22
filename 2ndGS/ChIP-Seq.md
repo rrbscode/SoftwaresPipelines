@@ -24,7 +24,10 @@
 (13) MultiQC: https://github.com/ewels/MultiQC  ,  https://pypi.python.org/pypi/multiqc/         
 (14) PRINSEQ: http://prinseq.sourceforge.net/   
 (15) kPAL: https://github.com/LUMC/kPAL                
-(16) KAT: https://github.com/TGAC/KAT             
+(16) KAT: https://github.com/TGAC/KAT           
+(17) FaQCs: https://github.com/LANL-Bioinformatics/FaQCs                
+(18) NGS-TOOLBOX: https://sourceforge.net/projects/ngs-toolbox/                
+(19) illuminate: https://pypi.python.org/pypi/illuminate/                    
                                                               
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
@@ -82,7 +85,8 @@
 (18) BCFtools: https://samtools.github.io/bcftools/                 
 (19) phantompeakqualtools: https://github.com/kundajelab/phantompeakqualtools               
 (20) IDR: https://github.com/nboley/idr               
-(21) SPP: https://github.com/hms-dbmi/spp                
+(21) SPP: https://github.com/hms-dbmi/spp       
+(22) QPLOT: http://genome.sph.umich.edu/wiki/QPLOT             
                   
                   
 
