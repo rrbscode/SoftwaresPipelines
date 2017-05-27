@@ -86,7 +86,10 @@
 (19) phantompeakqualtools: https://github.com/kundajelab/phantompeakqualtools               
 (20) IDR: https://github.com/nboley/idr               
 (21) SPP: https://github.com/hms-dbmi/spp       
-(22) QPLOT: http://genome.sph.umich.edu/wiki/QPLOT             
+(22) QPLOT: http://genome.sph.umich.edu/wiki/QPLOT      
+(23) htSeqTools: http://bioconductor.org/packages/release/bioc/html/htSeqTools.html         
+(24) BatchQC: http://bioconductor.org/packages/release/bioc/html/BatchQC.html              
+(25) goleft: https://github.com/brentp/goleft                                   
                   
                   
 
