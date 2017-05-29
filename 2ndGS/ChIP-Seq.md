@@ -27,7 +27,8 @@
 (16) KAT: https://github.com/TGAC/KAT           
 (17) FaQCs: https://github.com/LANL-Bioinformatics/FaQCs                
 (18) NGS-TOOLBOX: https://sourceforge.net/projects/ngs-toolbox/                
-(19) illuminate: https://pypi.python.org/pypi/illuminate/                    
+(19) illuminate: https://pypi.python.org/pypi/illuminate/        
+(20) AfterQC: https://github.com/OpenGene/AfterQC               
                                                               
 #### 3. Remove Duplicates based on FASTQ files, and Correct raw reads
 (1)  ParDRe: https://sourceforge.net/projects/pardre/   
