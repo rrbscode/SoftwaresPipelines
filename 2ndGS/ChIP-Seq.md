@@ -90,7 +90,8 @@
 (22) QPLOT: http://genome.sph.umich.edu/wiki/QPLOT      
 (23) htSeqTools: http://bioconductor.org/packages/release/bioc/html/htSeqTools.html         
 (24) BatchQC: http://bioconductor.org/packages/release/bioc/html/BatchQC.html              
-(25) goleft: https://github.com/brentp/goleft                                   
+(25) goleft: https://github.com/brentp/goleft     
+(26) plotFingerprint in deepTools: http://deeptools.readthedocs.io/en/latest/content/tools/plotFingerprint.html  
                   
                   
 
