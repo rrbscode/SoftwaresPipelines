@@ -64,6 +64,9 @@
 (11) deBGA:  https://github.com/hitbc/deBGA       
 (12) Edlib: https://github.com/Martinsos/edlib                           
 (13) NextGenMap: https://github.com/Cibiv/NextGenMap     
+(14) AlignerBoost: https://github.com/Grice-Lab/AlignerBoost             
+(15) SureMap: https://github.com/MohammadJRS/SureMap                
+
                       
 #### 6. Check quality for BAM files
 (1)  Sambamba:  https://github.com/lomereiter/sambamba   
